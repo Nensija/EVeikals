@@ -1,0 +1,78 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.test {
+  text-align: center;
+}
+.app-logo {
+  margin: 10px;
+}
+.empty-row {
+  height: 60px;
+}
+.app-layout {
+  display: grid;
+  grid-template-columns: 200px auto;
+  grid-column: 20px;
+  margin-top: 20px;
+}
+.product-item-name {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.334;
+  letter-spacing: 0em;
+  margin-bottom: 0.35em;
+}
+.product-item-price {
+  text-align: center;
+  font-weight: 700;
+  font-size: 1rem;
+  margin-bottom: 1em;
+}
+.button-style-text {
+  text-transform: none;
+}
+.product-item-description {
+  text-align: left;
+  color: rgb(0, 0, 0, 0.54);
+  font-size: 0.875rem;
+  font-weight: 400;
+  line-height: 1.43;
+}
+.card-actions-sontent {
+  justify-content: center;
+  padding-bottom: 20px;
+}
+.product-length {
+  text-align: left;
+  margin-bottom: 10px;
+  color: rgb(0, 0, 0, 0.54);
+}
+.list-header {
+  font-weight: 700;
+  font-size: 16px;
+  color: rgb(0, 0, 0, 0.54);
+}
+.drawer-content {
+  margin: 20px;
+}
+.drawer-badge-content {
+  text-align: center;
+  margin-bottom: 30px;
+}
+.drawer-badge-title {
+  color: #1976d2;
+  font-size: 30px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+.drawer-shopping-cart {
+  font-size: 50px;
+}
+.drawer-nodata-content {
+  text-align: center;
+  font-weight: 700;
+  font-size: 20px;
+}
