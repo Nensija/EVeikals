@@ -31,3 +31,5 @@ npm start
 5. Atveriet aplikāciju jebkurā modernā interneta pārlūkprogrammā, noklikšķinot uz saites http://localhost:3000.
 
 ## CodeSandbox
+
+Aplikāciju var arī apskatīt CodeSandbox vidē, noklikšķinot uz saites https://codesandbox.io/s/e-veikals-mxhdnz?file=/src/App.js
